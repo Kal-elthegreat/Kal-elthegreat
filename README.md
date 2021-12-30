@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Kal-elthegreat
-- 👀 I’m interested in Front End technologies, React, JS, Data Science, Python
+- 👀 I’m interested in Front End technologies: React, JS
+- Also learning blockchain development starting w/ Solidity then moving to Web3
+- I am also curious about maybe one day learning Python
 - 🌱 I’m currently learning react unit testing
-- 💞️ I’m looking to collaborate on anything that falls under my interests (except Data science & Python...haven't learned those yet 😉 )
+- 💞️ I’m looking to collaborate on anything that falls under my interests (except Python...haven't learned those yet 😉 )
 - 📫 How to reach me: 
   Twitter 🐦 @Hoops2Code
   Instagram 📸  @hoops2code_
